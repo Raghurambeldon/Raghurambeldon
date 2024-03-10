@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript n Python
 - 💞️ I’m looking to collaborate on small Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Check my Portfolio https://raghurambeldon-portfolio.netlify.app/
 
 <!---
 Raghurambeldon/Raghurambeldon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
